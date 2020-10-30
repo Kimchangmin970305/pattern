@@ -1,4 +1,4 @@
-package design;
+package singleton;
 
 public class printer {
 	private printer() {}
